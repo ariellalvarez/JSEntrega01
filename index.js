@@ -49,3 +49,5 @@ function detalleCuota(a,b){
 for(let i=1; i<=cantidad; i++ ){
 detalleCuota(i,cuota)
 }
+
+console.log("Suerte con la compra!!!")
